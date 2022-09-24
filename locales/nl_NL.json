@@ -10,7 +10,8 @@
 		"accountWidget": {
 			"settings": "Instellingen",
 			"logout": "Uitloggen"
-		}
+		},
+		"donate": "Doneer"
 	},
 	"hero": {
 		"subtitle": "Game servers",
@@ -308,9 +309,14 @@
 				"passwordPrompt": "Voer je PNID wachtwoord in om Cemu bestanden te downloaden",
 				"passwordResetNotice": "Na het wijzigen van je wachtwoord, word je uitgelogd van al je apparaten.",
 				"fullSignInHistory": "Bekijk volledige aanmeld geschiedenis",
-				"signInHistory": "Aanmeld geschiedenis"
+				"signInHistory": "Aanmeld geschiedenis",
+				"no_signins_notice": "Log in geschiedenis wordt momenteel niet opgeslagen. Kom later weer terug!",
+				"userSettings": "Gebruikers instellingen",
+				"no_newsletter_notice": "Nieuwsbrief is momenteel niet beschikbaar. Kom later weer terug",
+				"no_edit_from_dashboard": "Het aanpassen van PNID instellingen via het gebruikers dashboard is momenteel niet mogelijk. Pas de gebruikers instellingen aan via je gelinkte game console"
 			},
-			"downloadFilesDescription": "(werkt niet op Nintendo Network)"
+			"downloadFilesDescription": "(werkt niet op Nintendo Network)",
+			"unavailable": "Niet beschikbaar"
 		},
 		"accountLevel": [
 			"Standaard",
@@ -318,11 +324,13 @@
 			"Moderator",
 			"Ontwikkelaar"
 		],
-		"banned": "Gebanned"
+		"banned": "Gebanned",
+		"account": "Account"
 	},
 	"modals": {
 		"cancel": "Annuleren",
-		"confirm": "Bevestigen"
+		"confirm": "Bevestigen",
+		"close": "Sluiten"
 	},
 	"docs": {
 		"missingInLocale": "Deze pagina is niet beschikbaar in je huidige taal. Bekijk de Engelse versie hieronder.",
@@ -338,6 +346,20 @@
 					"caption": "Bekijk het hier"
 				}
 			]
+		},
+		"search": {
+			"no_match": "Geen wedstrijden gevonden",
+			"label": "Foutcode",
+			"caption": "Voer het hieronder in om informatie over je fout te krijgen!",
+			"title": "Heb je een foutcode?"
+		},
+		"sidebar": {
+			"getting_started": "Startinstructies",
+			"search": "Zoek",
+			"welcome": "Welkom",
+			"install_extended": "Installeer Pretendo",
+			"install": "Installeer",
+			"juxt_err": "Foutcodes - Juxt"
 		}
 	}
 }
